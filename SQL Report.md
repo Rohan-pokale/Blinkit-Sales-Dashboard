@@ -8,7 +8,10 @@ This repository contains SQL queries and insights derived from the Blinkit sales
 
 **Query:**
 sql
+```
 SELECT * FROM blinkit_data;
+```
+
 ![image](https://github.com/user-attachments/assets/d26e1639-d7dc-43ae-9793-eb64afb58ff0)
 
 
