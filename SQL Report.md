@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bb3069ab-c4f1-4195-816e-9bf6b74f9439)# 🛒 Blinkit Analysis (SQL Report)
+# 🛒 Blinkit Analysis (SQL Report)
 
 This repository contains SQL queries and insights derived from the Blinkit sales dataset. It includes data cleaning, key performance indicators (KPIs), and detailed visual analysis by various attributes.
 
