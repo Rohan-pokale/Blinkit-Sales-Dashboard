@@ -4,15 +4,29 @@ This repository contains SQL queries and insights derived from the Blinkit sales
 
 ---
 
-## 1. View Raw Data
+## 1. View Raw Data:
 
 **Query:**
-sql
+
 ```
+sql
 SELECT * FROM blinkit_data;
 ```
 
-![image](https://github.com/user-attachments/assets/d26e1639-d7dc-43ae-9793-eb64afb58ff0)
+## 2.DATA CLEANING:
+
+```
+sql
+UPDATE blinkit_data
+SET Item_Fat_Content = 
+    CASE 
+        WHEN Item_Fat_Content IN ('LF', 'low fat') THEN 'Low Fat'
+        WHEN Item_Fat_Content = 'reg' THEN 'Regular'
+        ELSE Item_Fat_Content
+         END;
+
+```
+
 
 
 
