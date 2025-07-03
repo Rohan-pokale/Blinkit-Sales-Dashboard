@@ -1,4 +1,4 @@
-# 🛒 Blinkit Analysis (SQL Report)
+![image](https://github.com/user-attachments/assets/bb3069ab-c4f1-4195-816e-9bf6b74f9439)# 🛒 Blinkit Analysis (SQL Report)
 
 This repository contains SQL queries and insights derived from the Blinkit sales dataset. It includes data cleaning, key performance indicators (KPIs), and detailed visual analysis by various attributes.
 
@@ -25,7 +25,9 @@ SET Item_Fat_Content =
         ELSE Item_Fat_Content
          END;
 
+SELECT DISTINCT Item_Fat_Content FROM blinkit_data;
 ```
+![image](https://github.com/user-attachments/assets/8c0ac9ea-6603-4394-8e86-906cb8f38ba0)
 
 
 
