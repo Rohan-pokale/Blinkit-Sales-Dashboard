@@ -28,7 +28,7 @@ The dashboard is built in **Excel** using advanced features like slicers, charts
 
 ## 📊 Dashboard Pages
 
-### 1️⃣ Sales Overview Dashboard  [View Excel Dashboard Page-1](https://github.com/Rohan-pokale/Blinkit-Sales-Dashboard/blob/main/01_Dashboard-Page1(Excel%20Dashboard).PNG)
+### 1️⃣ Sales Overview Dashboard    [View Excel Dashboard Page-1](https://github.com/Rohan-pokale/Blinkit-Sales-Dashboard/blob/main/01_Dashboard-Page1(Excel%20Dashboard).PNG)
 
 - Total Sales: $1.20M  
 - No. of Items: 8,523  
@@ -43,7 +43,7 @@ The dashboard is built in **Excel** using advanced features like slicers, charts
 
 ---
 
-### 2️⃣ Fat Content & Item Analysis Dashboard  [View Excel Dashboard Page-2](https://github.com/Rohan-pokale/Blinkit-Sales-Dashboard/blob/main/02_Dashboard-Page2%20(Excel%20Dashboard).PNG)
+### 2️⃣ Fat Content & Item Analysis Dashboard.    [View Excel Dashboard Page-2](https://github.com/Rohan-pokale/Blinkit-Sales-Dashboard/blob/main/02_Dashboard-Page2%20(Excel%20Dashboard).PNG)
 
 - Fat Content Breakdown: Regular (64.6%), Low Fat (35.4%)
 
@@ -55,7 +55,7 @@ The dashboard is built in **Excel** using advanced features like slicers, charts
 
 ---
 
-## 🧪 SQL Validation – Clean, Reliable Data [View SQL Report](https://github.com/Rohan-pokale/Blinkit-Sales-Dashboard/blob/main/03_SQL%20Report.md)
+## 🧪 SQL Validation – Clean, Reliable Data.   [View SQL Report](https://github.com/Rohan-pokale/Blinkit-Sales-Dashboard/blob/main/03_SQL%20Report.md)
 
 Before building the dashboard, SQL was used to ensure that the data was clean and logically structured. Key validation steps included:
 
@@ -75,7 +75,7 @@ This SQL-based validation helped maintain data integrity and allowed confident d
 
 ---
 
-## 📊 Exploratory Data Analysis (Python)
+## 📊 Exploratory Data Analysis (Python).
 
 EDA was conducted in Python using **pandas**, **matplotlib**, and **seaborn** to better understand trends, outliers, and hidden patterns.
 
@@ -166,7 +166,7 @@ This project bridges **raw data to insights** by combining:
 
 **Rohan Devanand Pokale**  
 🎓 B.Tech – Computer Science (Data Science)  
-🏫 Vishwakarma Institute of Technology, Pune  
+🏫 Vishwakarma Institute of Information Technology, Pune  
 📧 developer.rohan06@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rohan-pokale-a774b2308)  
 
