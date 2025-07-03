@@ -10,3 +10,8 @@ This repository contains SQL queries and insights derived from the Blinkit sales
 ```sql
 SELECT * FROM blinkit_data;
 
+
+
+SELECT CAST(AVG(Rating) AS DECIMAL(10,1)) AS Avg_Rating
+FROM blinkit_data;
+
